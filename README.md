@@ -24,8 +24,8 @@ www.crispeace.ro
 
 ### Kitchen Dashboard
 Custom-built interface designed for the business owner to easily manage incoming orders in real-time.
-![Kitchen Dashboard](docs/kitchen-dashboard.png)
+![Kitchen Dashboard](kitchen-dashboard.png)
 
 ### Product Management
 Product management system where items can be quickly updated or marked as unavailable with a single action.
-![Product Management](docs/product-management.png)
+![Product Management](product-management.png)
