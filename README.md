@@ -17,8 +17,8 @@ A real-world business website developed using WordPress and WooCommerce.
 ## Status
 The platform is fully functional and currently being finalized for production deployment.
 
-## Live Demo
-Coming soon
+## Live 
+www.crispeace.ro
 
 ## Screenshots
 
